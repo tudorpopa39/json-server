@@ -1,0 +1,151 @@
+{
+    "users": [
+        {
+            "firstName": "Jackop",
+            "id": 1,
+            "email": "tudor_popa39@yahoo.com",
+            "pictureUrl": "https://cdn.iconscout.com/icon/free/png-256/avatar-377-456329.png",
+            "lastName": "Blueballs",
+            "phoneNumber": "0264123456",
+            "membership" : {
+                "id": 1,
+                "name": "Premium",
+                "start_date": 1562332896,
+                "end_date": 1570195296,
+                "status": "Paid",
+                "price": 500,
+                "currency": "RON",
+                "next_billing": 1565011296,
+                "entries": 4,
+                "picture_url": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
+            }
+        },
+        {
+            "firstName": "Ovi",
+            "id": 2,
+            "email": "ovidiu.iuonas@hpm.ro",
+            "lastName": "Sam"
+        }
+    ],
+    "subscriptions": [
+        {
+            "id": 1,
+            "name": "Premium",
+            "start_date": 1562332896,
+            "end_date": 1570195296,
+            "status": "Paid",
+            "price": 500,
+            "currency": "RON",
+            "next_billing": 1565011296,
+            "entries": 4,
+            "picture_url": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
+        },
+        {
+            "id": 79,
+            "name": "GOD",
+            "start_date": -940763487,
+            "end_date": 32478065313,
+            "status": "Paid",
+            "price": 499,
+            "currency": "RON",
+            "next_billing": 32478065313,
+            "entries": 9999,
+            "picture_url": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
+        }
+    ],
+    "classes": [
+        {
+            "date": 1564761600,
+            "status": "going",
+            "id": 45,
+            "name": "TRX Class",
+            "duration": 30,
+            "trainer": {
+                "id": 10,
+                "name": "Nicu Foalea"
+            },
+            "picture_url": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 46,
+            "name": "Yoga",
+            "date": 1564765200,
+            "duration": 50,
+            "trainer": {
+                "id": 10,
+                "name": "Nicu Foalea"
+            },
+            "status": "not going",
+            "picture_url": "https://images.unsplash.com/photo-1518609571773-39b7d303a87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
+        },
+        {
+            "id": 47,
+            "name": "TRX Class",
+            "date": 1565024400,
+            "duration": 120,
+            "trainer": {
+                "id": 10,
+                "name": "Nicu Foalea"
+            },
+            "status": "going"
+        },
+        {
+            "trainer": {
+                "id": 11,
+                "name": "Fany"
+            },
+            "status": "going",
+            "name": "Force Turbo",
+            "date": 1565182800,
+            "duration": 50,
+            "id": 84,
+            "picture_url": "https://images.unsplash.com/photo-1521804906057-1df8fdb718b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
+        }
+    ],
+    "scanner": [
+        {
+            "guid": "123",
+            "user": {
+                "first_name": "Jackop",
+                "id": 1,
+                "email": "tudor_popa39@yahoo.com",
+                "avatar_picture": "https://cdn.iconscout.com/icon/free/png-256/avatar-377-456329.png",
+                "last_name": "Blueballs"
+            },
+            "membership": {
+                "id": 1,
+                "name": "Premium",
+                "start_date": 1562332896,
+                "end_date": 1570195296,
+                "status": "Unpaid",
+                "price": 500,
+                "currency": "RON",
+                "next_billing": 1565011296,
+                "entries": 4,
+                "picture_url": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
+            }
+        },
+        {
+            "guid": "589",
+            "user": {
+                "first_name": "Chuck",
+                "id": 1,
+                "email": "com.gmail@chuck.norris",
+                "avatar_picture": "http://bf4-emblems.com/wp-content/uploads/2013/11/Chuck-Norris.jpg",
+                "last_name": "Norris"
+            },
+            "membership": {
+                "id": 79,
+                "name": "GOD",
+                "start_date": -940763487,
+                "end_date": 32478065313,
+                "status": "Paid",
+                "price": 499,
+                "currency": "RON",
+                "next_billing": 32478065313,
+                "entries": 9999,
+                "picture_url": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
+            }
+        }
+    ]
+}
