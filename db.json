@@ -25,6 +25,12 @@
             "id": 2,
             "email": "ovidiu.iuonas@hpm.ro",
             "lastName": "Sam"
+        },
+        {
+            "firstName": "Tudor",
+            "id": 3,
+            "email": "tudor.popa@hpm.ro",
+            "lastName": "HPM"
         }
     ],
     "subscriptions": [
