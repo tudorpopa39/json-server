@@ -61,8 +61,47 @@
                 "email": "tudor.popa@hpm.ro",
                 "accepted": true
             }
+        },
+        {
+            "firstName": "Tudor",
+            "id": 6,
+            "email": "tudor.popa@hpm.ro",
+            "lastName": "HPM",
+            "appointment": {
+                "id": "ada8789d-0bb9-469c-8750-acd257b12157",
+                "date": 1570195296,
+                "phoneNumber": "0749397933",
+                "firstName": "Tudor",
+                "lastName": "HPM",
+                "email": "tudor.popa@hpm.ro",
+                "accepted": true
+            },
+            "membershipInvitations" : {
+                {
+                    "clientEmail": "tudor.popa@hpm.ro",
+                    "endDate": 1570195296,
+                    "id": "2339028c-ad9c-489d-9c72-185c05991741",
+                    "membershipModelName": "Premium",
+                    "paymentRate": 1,
+                    "startDate": 1562332896,
+                    "status": "PENDING",
+                    "valability": 1570195296
+                }
+            }
         }
     ],
+    "membershipInvitations" : {
+        {
+            "clientEmail": "tudor.popa@hpm.ro",
+            "endDate": 1570195296,
+            "id": "2339028c-ad9c-489d-9c72-185c05991741",
+            "membershipModelName": "Premium",
+            "paymentRate": 1,
+            "startDate": 1562332896,
+            "status": "PENDING",
+            "valability": 1570195296
+        }
+    },
     "memberships": [
         {
             "id": 1,
