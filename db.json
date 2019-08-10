@@ -31,6 +31,21 @@
             "id": 3,
             "email": "tudor.popa@hpm.ro",
             "lastName": "HPM"
+        },
+        {
+            "firstName": "Tudor",
+            "id": 4,
+            "email": "tudor.popa@hpm.ro",
+            "lastName": "HPM",
+            "appointment": {
+                "id": "ada8789d-0bb9-469c-8750-acd257b12157",
+                "date": null,
+                "phoneNumber": "0749397933",
+                "firstName": "Tudor",
+                "lastName": "HPM",
+                "email": "tudor.popa@hpm.ro",
+                "accepted": false
+            }
         }
     ],
     "subscriptions": [
