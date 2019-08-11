@@ -77,30 +77,26 @@
                 "accepted": true
             },
             "membershipInvitations" : {
-                {
-                    "clientEmail": "tudor.popa@hpm.ro",
-                    "endDate": 1570195296,
-                    "id": "2339028c-ad9c-489d-9c72-185c05991741",
-                    "membershipModelName": "Premium",
-                    "paymentRate": 1,
-                    "startDate": 1562332896,
-                    "status": "PENDING",
-                    "valability": 1570195296
-                }
+                "clientEmail": "tudor.popa@hpm.ro",
+                "endDate": 1570195296,
+                "id": "2339028c-ad9c-489d-9c72-185c05991741",
+                "membershipModelName": "Premium",
+                "paymentRate": 1,
+                "startDate": 1562332896,
+                "status": "PENDING",
+                "valability": 1570195296
             }
         }
     ],
     "membershipInvitations" : {
-        {
-            "clientEmail": "tudor.popa@hpm.ro",
-            "endDate": 1570195296,
-            "id": "2339028c-ad9c-489d-9c72-185c05991741",
-            "membershipModelName": "Premium",
-            "paymentRate": 1,
-            "startDate": 1562332896,
-            "status": "PENDING",
-            "valability": 1570195296
-        }
+        "clientEmail": "tudor.popa@hpm.ro",
+        "endDate": 1570195296,
+        "id": "2339028c-ad9c-489d-9c72-185c05991741",
+        "membershipModelName": "Premium",
+        "paymentRate": 1,
+        "startDate": 1562332896,
+        "status": "PENDING",
+        "valability": 1570195296
     },
     "memberships": [
         {
