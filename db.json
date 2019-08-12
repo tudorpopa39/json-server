@@ -175,47 +175,41 @@
     ],
     "scanner": [
         {
-            "guid": "123",
-            "user": {
-                "first_name": "Jackop",
-                "id": 1,
-                "email": "tudor_popa39@yahoo.com",
-                "avatar_picture": "https://cdn.iconscout.com/icon/free/png-256/avatar-377-456329.png",
-                "last_name": "Blueballs"
-            },
+            "firstName": "Jackop",
+            "id": "123",
+            "email": "tudor_popa39@yahoo.com",
+            "photoUrl": "https://cdn.iconscout.com/icon/free/png-256/avatar-377-456329.png",
+            "lastName": "Norris",
             "membership": {
-                "id": 1,
-                "name": "Premium",
-                "start_date": 1562332896,
-                "end_date": 1570195296,
+                "id": "1",
+                "name": "GOD",
+                "startDate": 1562332896,
+                "endDate": 32478065313,
                 "status": "Unpaid",
-                "price": 500,
+                "price": 499,
                 "currency": "RON",
-                "next_billing": 1565011296,
+                "nextBilling": 1565011296,
                 "entries": 4,
-                "picture_url": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
+                "photoUrl": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
             }
         },
         {
-            "guid": "589",
-            "user": {
-                "first_name": "Chuck",
-                "id": 1,
-                "email": "com.gmail@chuck.norris",
-                "avatar_picture": "http://bf4-emblems.com/wp-content/uploads/2013/11/Chuck-Norris.jpg",
-                "last_name": "Norris"
-            },
+            "firstName": "Chuck",
+            "id": "589",
+            "email": "com.gmail@chuck.norris",
+            "photoUrl": "http://bf4-emblems.com/wp-content/uploads/2013/11/Chuck-Norris.jpg",
+            "lastName": "Norris",
             "membership": {
-                "id": 79,
+                "id": "79",
                 "name": "GOD",
-                "start_date": -940763487,
-                "end_date": 32478065313,
+                "startDate": -940763487,
+                "endDate": 32478065313,
                 "status": "Paid",
                 "price": 499,
                 "currency": "RON",
-                "next_billing": 32478065313,
+                "nextBilling": 32478065313,
                 "entries": 9999,
-                "picture_url": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
+                "photoUrl": "https://disabilitywebtraining.com/wp-content/uploads/2018/04/planPremium.png"
             }
         }
     ]
